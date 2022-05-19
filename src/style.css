@@ -1,0 +1,71 @@
+body {
+    height: 100%;
+    text-align: center;
+    font-size: 16px;
+    background-color: slategrey;
+}
+
+div#t {
+    background-color: black;
+    width: 25%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+h1 {
+	font-family: "Corbel", sans-serif; 
+	font-weight: 128;
+    margin-top: 20px;
+    color: white;
+}
+
+button {
+    text-align: center;
+    font-size: 24px;
+    margin: 7px 5px;
+    font-family: "Corbel-Light", sans-serif;
+    background-color: royalblue;
+    color: white;
+    padding: 4px 8px;
+    border: 3px solid black;
+}
+
+table#abc {
+    padding: 6px 14px;
+    background-color:dodgerblue;
+    margin: auto;
+}
+
+table#game {
+    table-layout:fixed;
+    background-color: white;
+    width: 89%;
+    height: 89%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 0.5%;
+}
+
+div#word {
+    font-family: "Arial", sans-serif;
+    color: coral;
+    letter-spacing: 40px;
+    font-size: 100px;
+    background-color: white;
+    padding-top: 50%;
+    text-align: center;
+}
+
+div#lives {
+    color: white;
+    text-align: center;
+    font-size: 1800%;
+    background-color: black;
+    height: 500px;
+    width: 60%;
+    margin-right: 25%;
+}
+
+b#heart {
+    color: red;
+}
